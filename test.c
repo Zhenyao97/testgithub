@@ -15,7 +15,7 @@
 int main(int argc, char *argv[])
 {
 	print("hello world\n");	
-	
+	print("change\n");
 	return 0;
 }
 
